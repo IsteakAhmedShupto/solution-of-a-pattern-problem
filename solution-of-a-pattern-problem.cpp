@@ -5,7 +5,7 @@ using namespace std;
 typedef long long ll;
 typedef long double ld;
 
-ll count1 = 1, count2 = 0;
+ll count1 = 1;
 
 ll patternSolve(ll count, ll n)
 {
